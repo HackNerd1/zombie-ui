@@ -13,7 +13,7 @@
 
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="./resources/僵尸企业成品.mp4" type="video/mp4">
-</videos>
+</video>
 
 ## 使用
 
