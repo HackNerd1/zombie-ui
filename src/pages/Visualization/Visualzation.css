@@ -1,0 +1,41 @@
+body{
+    background-color: #ecf0f1;
+}
+.ant-layout-header{
+    background-color: #282B34;
+    height: 60px!important;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Arial, Helvetica, sans-serif';
+    box-shadow: 5px 5px 5px black;
+}
+.ant-layout-content{
+    background-color: #ecf0f1;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    /* 上面三句是一个意思，就是让图片随屏幕大小同步缩放，但是有部分可能会被裁切，不过不至于会露白，下面两句是为chrome和opera浏览器作兼容。 */
+    height: 100vh;
+}
+.ant-row{
+    padding-top: 0px;
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+}
+.ant-card{
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px #bdc3c7;;
+}
+.ant-card:hover{
+    box-shadow: 0px 2px 20px #2c3e50;;
+}
+
+.ant-card-head-title{
+    padding-bottom: 0px;
+    padding-top: 10px;
+}
+.ant-layout-header{
+    height: 40px;
+}

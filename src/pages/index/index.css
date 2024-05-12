@@ -1,0 +1,14 @@
+.Content{
+    background: url(../../assets/ChMkJlwt7siIHYdgAABvEdpHPBoAAuKMQN9yJsAAG8p630.jpg) no-repeat center ;
+    /* background-color:#FFFFFF; */
+    background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    /* 上面三句是一个意思，就是让图片随屏幕大小同步缩放，但是有部分可能会被裁切，不过不至于会露白，下面两句是为chrome和opera浏览器作兼容。 */
+    height: 100vh;
+}
+.ant-layout-header{
+    background-color: bal;
+    text-align: center;
+    color: white;
+}

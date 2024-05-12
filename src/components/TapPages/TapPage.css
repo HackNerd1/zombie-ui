@@ -1,0 +1,6 @@
+#RingplotZombie, #RoseplotProvincesMapZombie,#RadarmapArea,#RadarmapIndustry,#BarplotPeople,#WordCloudZombie,#PieplotPeople{
+    float: left;
+}
+.ant-descriptions-item-label, .ant-descriptions-item-content{
+    line-height: 1!important;
+}
